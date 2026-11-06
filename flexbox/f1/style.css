@@ -1,0 +1,9 @@
+.linha {
+    display: flex;  
+    gap: 10px
+}
+
+.linha div {
+    background-color: rgb(255, 0, 0);
+    padding-top: 0cap;
+}

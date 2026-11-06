@@ -1,0 +1,11 @@
+.grade {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.caixa {
+    background: #ffd900;
+    color: #fff;
+    padding: 20px;
+}
